@@ -1,2 +1,2 @@
 # lab02-repo
-Aslan Tunc Ozcan
+Yaman Kerem Temli
